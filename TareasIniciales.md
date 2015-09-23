@@ -82,6 +82,10 @@
 
 4. Ahora tenemos en nuestro directorio el archivo HTML, que nos muestra el contenido de TareasIniciales.md en formato HTML.
 
+## Uso de GH Pages
+
+  Finalmente los publicamos como proyecto de Github con gh-pages: [gh-pages](http://alu0100600582.github.io/TareasIniciales)
+
 ----
 
 * Ver [repositorio](https://github.com/alu0100600582/TareasIniciales)
