@@ -21,7 +21,7 @@
 2. Lo ejecutamos y seguimos las instrucciones de instalación
 3. La ejecución se puede realizar a través de la consola con el comando node o bien desde el ejecutable de node.JS
 
-    ![](img/nodejs.png)
+    ![](images/nodejs.png)
 
 
 ##Instalación de express
@@ -32,13 +32,13 @@
 2. Usamos el comando _npm init_ dentro del directorio para crear package.json en nuestra aplicación.
 
 
-    ![](img/npm.png)
+    ![](images/npm.png)
 
 
 3. Ahora instalamos express mediante el comando _npm install express --save_
 
 
-    ![](img/express.npg)
+    ![](images/express.npg)
 
 
 ##Instalación de Github App para Windows
@@ -46,7 +46,7 @@
 1. Descargamos la APP de Github: [Github App](https://desktop.github.com/)
 2. La ejecutamos y realizamos la instalación.
 
-    ![](img/gitapp.png)
+    ![](images/gitapp.png)
 
 
 ##Instalación de Atom
@@ -54,7 +54,7 @@
 1. Descargamos la aplicación: [Atom](https://atom.io/)
 2. La ejecutamos y seguimos la instalación.
 
-    ![](img/atom.png)
+    ![](images/atom.png)
 
 
 ##Instalación de PANDOC
@@ -63,7 +63,7 @@
 2. Lo ejecutamos y realizamos instalación.
 
 
-    ![](img/pandoc.png)
+    ![](images/pandoc.png)
 
 
 3. Una vez instalado, debemos comprobar que se encuentra en las variables de entorno de Windows.
